@@ -32,7 +32,6 @@
 
 ![Картинка](C:\Users\Михаил\Desktop\Seminar1\IMG_20200818_193141.png "Радуга")
 
-
 *Блок кода*
 
     public class Array {
